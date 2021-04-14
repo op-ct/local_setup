@@ -1,0 +1,7 @@
+---
+name: local_setup
+modules:
+- name: nwops-debug
+- name: puppetlabs-stdlib
+- name: puppet-format
+- name: puppetlabs/vcsrepo
